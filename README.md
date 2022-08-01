@@ -1,1 +1,1 @@
-# Ai-workshop
+# MLOps-workshop
